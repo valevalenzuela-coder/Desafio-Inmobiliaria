@@ -9,7 +9,7 @@ contenidoHTML+= `
 
 <div class= "col-md-4 mb-4">
 <div class= "card">
-<img src="${propiedadesArriendo.src}" class="card-img-top "  alt="Imagen-apartamento" style="height: 200px; object-fit=cover">
+<img src="${propiedadesArriendo.src}" class="card-img-top "  alt="Imagen-apartamento" style="height: 200px; object-fit: cover;">
 <div class= "card-body">
 <h5> titulo: ${propiedadesArriendo.nombre}</h5>
 <p> ubicacion: ${propiedadesArriendo.ubicacion}</p>

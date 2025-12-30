@@ -8,7 +8,7 @@ export const cargarVentas =() =>{
 contenidoHTML+= `
 <div class= "col-md-4 mb-4">
 <div class= "card">
-<img src="${venta.src}" class="card-img-top" alt="imagen"style="height: 250px; object-fit=cover" >
+<img src="${venta.src}" class="card-img-top" alt="imagen"style="height: 250px; object-fit: cover;" >
 <div class="card-body">
 <h5> titulo: ${venta.nombre}</h5>
 <p> ubicacion: ${venta.ubicacion}</p>
