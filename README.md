@@ -12,9 +12,6 @@ Puedes ver el sitio funcionando aquí:
 * **JavaScript (ES6+)** para la manipulación dinámica del DOM y arreglos de objetos.
 * **GitHub Pages** para el despliegue.
 
-## 📸 Vista Previa
-![Captura de pantalla del sitio](https://valevalenzuela-coder.github.io/Desafio-Inmobiliaria/assets/img/preview.png)
-*(Nota: Asegúrate de subir una captura de pantalla a tu carpeta de imágenes para que este enlace funcione)*.
 
 ## ⚙️ Características
 * Renderización dinámica mediante arreglos de objetos.
